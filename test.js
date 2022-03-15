@@ -1,1 +1,1 @@
-
+var wife = 'Sarah';
